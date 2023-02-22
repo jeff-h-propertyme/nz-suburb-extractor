@@ -1,7 +1,7 @@
 const fs = require('fs');
 
 try {
-  const data = fs.readFileSync('./NZ_Addresses_prod.csv', 'utf8');
+  const data = fs.readFileSync('./NZ_Addresses_stage.csv', 'utf8');
   const strung = data.toString();
   const allLines = strung.split(/\n/g);
   const isHeaderRow = allLines[0].startsWith('Address');
@@ -29,7 +29,7 @@ try {
   combinedLines.push(combined);
 
   const linesNotStartingWithExpected = combinedLines.filter(l => !l.startsWith('"{Unit'));
-  console.log(linesNotStartingWithExpected)
+  console.log('Lines not starting with "{Unit after combining: ', linesNotStartingWithExpected)
 
   const writeStream = fs.createWriteStream('./NZ_Addresses_fixed.csv');
   writeStream.write(`Address\n`);
