@@ -12,21 +12,24 @@ try {
   }
 
   const lines = isHeaderRow ? allLines.slice(1) : allLines; // exclude heading row
-
   const combinedLines = [];
-  let pair = [];
+  let parts = [];
 
   for (const line of lines) {
-    pair.push(line);
-
-    if (pair.length < 2) {
-        continue;
+    if (parts.length && line.startsWith('"{Unit')) {
+      const combined = parts.join(' ');
+      combinedLines.push(combined);
+      parts = [];
     }
 
-    const combined = pair.join(' ');
-    combinedLines.push(combined)
-    pair = [];
+    parts.push(line);
   }
+
+  const combined = parts.join(' ');
+  combinedLines.push(combined);
+
+  const linesNotStartingWithExpected = combinedLines.filter(l => !l.startsWith('"{Unit'));
+  console.log(linesNotStartingWithExpected)
 
   const writeStream = fs.createWriteStream('./NZ_Addresses_fixed.csv');
   writeStream.write(`Address\n`);
