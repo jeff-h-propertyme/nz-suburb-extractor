@@ -1,0 +1,634 @@
+{
+    "ashburton": [
+        {
+            "DistrictId": 63,
+            "DistrictName": "Ashburton",
+            "LocalityName": "Canterbury",
+            "LocalityId": 3
+        }
+    ],
+    "auckland city": [
+        {
+            "DistrictId": 7,
+            "DistrictName": "Auckland City",
+            "LocalityName": "Auckland",
+            "LocalityId": 1
+        }
+    ],
+    "banks peninsula": [
+        {
+            "DistrictId": 61,
+            "DistrictName": "Banks Peninsula",
+            "LocalityName": "Canterbury",
+            "LocalityId": 3
+        }
+    ],
+    "blenheim": [
+        {
+            "DistrictId": 82,
+            "DistrictName": "Blenheim",
+            "LocalityName": "Marlborough",
+            "LocalityId": 7
+        }
+    ],
+    "buller": [
+        {
+            "DistrictId": 55,
+            "DistrictName": "Buller",
+            "LocalityName": "West Coast",
+            "LocalityId": 16
+        }
+    ],
+    "carterton": [
+        {
+            "DistrictId": 49,
+            "DistrictName": "Carterton",
+            "LocalityName": "Wellington",
+            "LocalityId": 15
+        }
+    ],
+    "catlins": [
+        {
+            "DistrictId": 78,
+            "DistrictName": "Catlins",
+            "LocalityName": "Southland",
+            "LocalityId": 11
+        }
+    ],
+    "central hawke's bay": [
+        {
+            "DistrictId": 32,
+            "DistrictName": "Central Hawke's Bay",
+            "LocalityName": "Hawke's Bay",
+            "LocalityId": 5
+        }
+    ],
+    "central otago": [
+        {
+            "DistrictId": 69,
+            "DistrictName": "Central Otago",
+            "LocalityName": "Otago",
+            "LocalityId": 10
+        }
+    ],
+    "christchurch city": [
+        {
+            "DistrictId": 60,
+            "DistrictName": "Christchurch City",
+            "LocalityName": "Canterbury",
+            "LocalityId": 3
+        }
+    ],
+    "clutha": [
+        {
+            "DistrictId": 72,
+            "DistrictName": "Clutha",
+            "LocalityName": "Otago",
+            "LocalityId": 10
+        }
+    ],
+    "dunedin": [
+        {
+            "DistrictId": 71,
+            "DistrictName": "Dunedin",
+            "LocalityName": "Otago",
+            "LocalityId": 10
+        }
+    ],
+    "far north": [
+        {
+            "DistrictId": 1,
+            "DistrictName": "Far North",
+            "LocalityName": "Northland",
+            "LocalityId": 9
+        }
+    ],
+    "franklin": [
+        {
+            "DistrictId": 10,
+            "DistrictName": "Franklin",
+            "LocalityName": "Auckland",
+            "LocalityId": 1
+        }
+    ],
+    "gisborne": [
+        {
+            "DistrictId": 28,
+            "DistrictName": "Gisborne",
+            "LocalityName": "Gisborne",
+            "LocalityId": 4
+        }
+    ],
+    "gore": [
+        {
+            "DistrictId": 74,
+            "DistrictName": "Gore",
+            "LocalityName": "Southland",
+            "LocalityId": 11
+        }
+    ],
+    "grey": [
+        {
+            "DistrictId": 56,
+            "DistrictName": "Grey",
+            "LocalityName": "West Coast",
+            "LocalityId": 16
+        }
+    ],
+    "hamilton": [
+        {
+            "DistrictId": 16,
+            "DistrictName": "Hamilton",
+            "LocalityName": "Waikato",
+            "LocalityId": 14
+        }
+    ],
+    "hastings": [
+        {
+            "DistrictId": 30,
+            "DistrictName": "Hastings",
+            "LocalityName": "Hawke's Bay",
+            "LocalityId": 5
+        }
+    ],
+    "hauraki": [
+        {
+            "DistrictId": 12,
+            "DistrictName": "Hauraki",
+            "LocalityName": "Waikato",
+            "LocalityId": 14
+        }
+    ],
+    "hauraki gulf islands": [
+        {
+            "DistrictId": 81,
+            "DistrictName": "Hauraki Gulf Islands",
+            "LocalityName": "Auckland",
+            "LocalityId": 1
+        }
+    ],
+    "horowhenua": [
+        {
+            "DistrictId": 42,
+            "DistrictName": "Horowhenua",
+            "LocalityName": "Manawatu / Whanganui",
+            "LocalityId": 6
+        }
+    ],
+    "hurunui": [
+        {
+            "DistrictId": 58,
+            "DistrictName": "Hurunui",
+            "LocalityName": "Canterbury",
+            "LocalityId": 3
+        }
+    ],
+    "invercargill": [
+        {
+            "DistrictId": 75,
+            "DistrictName": "Invercargill",
+            "LocalityName": "Southland",
+            "LocalityId": 11
+        }
+    ],
+    "kaikoura": [
+        {
+            "DistrictId": 54,
+            "DistrictName": "Kaikoura",
+            "LocalityName": "Marlborough",
+            "LocalityId": 7
+        }
+    ],
+    "kaipara": [
+        {
+            "DistrictId": 3,
+            "DistrictName": "Kaipara",
+            "LocalityName": "Northland",
+            "LocalityId": 9
+        }
+    ],
+    "kapiti coast": [
+        {
+            "DistrictId": 43,
+            "DistrictName": "Kapiti Coast",
+            "LocalityName": "Wellington",
+            "LocalityId": 15
+        }
+    ],
+    "kawerau": [
+        {
+            "DistrictId": 26,
+            "DistrictName": "Kawerau",
+            "LocalityName": "Bay Of Plenty",
+            "LocalityId": 2
+        }
+    ],
+    "lower hutt": [
+        {
+            "DistrictId": 46,
+            "DistrictName": "Lower Hutt",
+            "LocalityName": "Wellington",
+            "LocalityId": 15
+        }
+    ],
+    "mackenzie": [
+        {
+            "DistrictId": 65,
+            "DistrictName": "Mackenzie",
+            "LocalityName": "Canterbury",
+            "LocalityId": 3
+        }
+    ],
+    "manawatu": [
+        {
+            "DistrictId": 39,
+            "DistrictName": "Manawatu",
+            "LocalityName": "Manawatu / Whanganui",
+            "LocalityId": 6
+        }
+    ],
+    "manukau city": [
+        {
+            "DistrictId": 8,
+            "DistrictName": "Manukau City",
+            "LocalityName": "Auckland",
+            "LocalityId": 1
+        }
+    ],
+    "marlborough": [
+        {
+            "DistrictId": 53,
+            "DistrictName": "Marlborough",
+            "LocalityName": "Marlborough",
+            "LocalityId": 7
+        }
+    ],
+    "masterton": [
+        {
+            "DistrictId": 48,
+            "DistrictName": "Masterton",
+            "LocalityName": "Wellington",
+            "LocalityId": 15
+        }
+    ],
+    "matamata-piako": [
+        {
+            "DistrictId": 15,
+            "DistrictName": "Matamata-Piako",
+            "LocalityName": "Waikato",
+            "LocalityId": 14
+        }
+    ],
+    "napier": [
+        {
+            "DistrictId": 31,
+            "DistrictName": "Napier",
+            "LocalityName": "Hawke's Bay",
+            "LocalityId": 5
+        }
+    ],
+    "nelson": [
+        {
+            "DistrictId": 52,
+            "DistrictName": "Nelson",
+            "LocalityName": "Nelson / Tasman",
+            "LocalityId": 8
+        }
+    ],
+    "new plymouth": [
+        {
+            "DistrictId": 33,
+            "DistrictName": "New Plymouth",
+            "LocalityName": "Taranaki",
+            "LocalityId": 12
+        }
+    ],
+    "north shore city": [
+        {
+            "DistrictId": 5,
+            "DistrictName": "North Shore City",
+            "LocalityName": "Auckland",
+            "LocalityId": 1
+        }
+    ],
+    "opotiki": [
+        {
+            "DistrictId": 27,
+            "DistrictName": "Opotiki",
+            "LocalityName": "Bay Of Plenty",
+            "LocalityId": 2
+        }
+    ],
+    "otorohanga": [
+        {
+            "DistrictId": 18,
+            "DistrictName": "Otorohanga",
+            "LocalityName": "Waikato",
+            "LocalityId": 14
+        }
+    ],
+    "palmerston north": [
+        {
+            "DistrictId": 40,
+            "DistrictName": "Palmerston North",
+            "LocalityName": "Manawatu / Whanganui",
+            "LocalityId": 6
+        }
+    ],
+    "papakura": [
+        {
+            "DistrictId": 9,
+            "DistrictName": "Papakura",
+            "LocalityName": "Auckland",
+            "LocalityId": 1
+        }
+    ],
+    "porirua": [
+        {
+            "DistrictId": 44,
+            "DistrictName": "Porirua",
+            "LocalityName": "Wellington",
+            "LocalityId": 15
+        }
+    ],
+    "queenstown-lakes": [
+        {
+            "DistrictId": 70,
+            "DistrictName": "Queenstown-Lakes",
+            "LocalityName": "Otago",
+            "LocalityId": 10
+        }
+    ],
+    "rangitikei": [
+        {
+            "DistrictId": 38,
+            "DistrictName": "Rangitikei",
+            "LocalityName": "Manawatu / Whanganui",
+            "LocalityId": 6
+        }
+    ],
+    "rodney": [
+        {
+            "DistrictId": 4,
+            "DistrictName": "Rodney",
+            "LocalityName": "Auckland",
+            "LocalityId": 1
+        }
+    ],
+    "rotorua": [
+        {
+            "DistrictId": 24,
+            "DistrictName": "Rotorua",
+            "LocalityName": "Bay Of Plenty",
+            "LocalityId": 2
+        }
+    ],
+    "ruapehu": [
+        {
+            "DistrictId": 36,
+            "DistrictName": "Ruapehu",
+            "LocalityName": "Manawatu / Whanganui",
+            "LocalityId": 6
+        }
+    ],
+    "selwyn": [
+        {
+            "DistrictId": 62,
+            "DistrictName": "Selwyn",
+            "LocalityName": "Canterbury",
+            "LocalityId": 3
+        }
+    ],
+    "south otago": [
+        {
+            "DistrictId": 79,
+            "DistrictName": "South Otago",
+            "LocalityName": "Otago",
+            "LocalityId": 10
+        }
+    ],
+    "south taranaki": [
+        {
+            "DistrictId": 35,
+            "DistrictName": "South Taranaki",
+            "LocalityName": "Taranaki",
+            "LocalityId": 12
+        }
+    ],
+    "south waikato": [
+        {
+            "DistrictId": 19,
+            "DistrictName": "South Waikato",
+            "LocalityName": "Waikato",
+            "LocalityId": 14
+        }
+    ],
+    "south wairarapa": [
+        {
+            "DistrictId": 50,
+            "DistrictName": "South Wairarapa",
+            "LocalityName": "Wellington",
+            "LocalityId": 15
+        }
+    ],
+    "southland": [
+        {
+            "DistrictId": 73,
+            "DistrictName": "Southland",
+            "LocalityName": "Southland",
+            "LocalityId": 11
+        }
+    ],
+    "stratford": [
+        {
+            "DistrictId": 34,
+            "DistrictName": "Stratford",
+            "LocalityName": "Taranaki",
+            "LocalityId": 12
+        }
+    ],
+    "tararua": [
+        {
+            "DistrictId": 41,
+            "DistrictName": "Tararua",
+            "LocalityName": "Manawatu / Whanganui",
+            "LocalityId": 6
+        }
+    ],
+    "tasman": [
+        {
+            "DistrictId": 51,
+            "DistrictName": "Tasman",
+            "LocalityName": "Nelson / Tasman",
+            "LocalityId": 8
+        }
+    ],
+    "taupo": [
+        {
+            "DistrictId": 21,
+            "DistrictName": "Taupo",
+            "LocalityName": "Waikato",
+            "LocalityId": 14
+        }
+    ],
+    "tauranga": [
+        {
+            "DistrictId": 23,
+            "DistrictName": "Tauranga",
+            "LocalityName": "Bay Of Plenty",
+            "LocalityId": 2
+        }
+    ],
+    "thames-coromandel": [
+        {
+            "DistrictId": 11,
+            "DistrictName": "Thames-Coromandel",
+            "LocalityName": "Waikato",
+            "LocalityId": 14
+        }
+    ],
+    "timaru": [
+        {
+            "DistrictId": 64,
+            "DistrictName": "Timaru",
+            "LocalityName": "Canterbury",
+            "LocalityId": 3
+        }
+    ],
+    "upper hutt": [
+        {
+            "DistrictId": 45,
+            "DistrictName": "Upper Hutt",
+            "LocalityName": "Wellington",
+            "LocalityId": 15
+        }
+    ],
+    "waiheke island": [
+        {
+            "DistrictId": 77,
+            "DistrictName": "Waiheke Island",
+            "LocalityName": "Auckland",
+            "LocalityId": 1
+        }
+    ],
+    "waikato": [
+        {
+            "DistrictId": 13,
+            "DistrictName": "Waikato",
+            "LocalityName": "Waikato",
+            "LocalityId": 14
+        }
+    ],
+    "waimakariri": [
+        {
+            "DistrictId": 59,
+            "DistrictName": "Waimakariri",
+            "LocalityName": "Canterbury",
+            "LocalityId": 3
+        }
+    ],
+    "waimate": [
+        {
+            "DistrictId": 66,
+            "DistrictName": "Waimate",
+            "LocalityName": "Canterbury",
+            "LocalityId": 3
+        }
+    ],
+    "waipa": [
+        {
+            "DistrictId": 17,
+            "DistrictName": "Waipa",
+            "LocalityName": "Waikato",
+            "LocalityId": 14
+        }
+    ],
+    "wairoa": [
+        {
+            "DistrictId": 29,
+            "DistrictName": "Wairoa",
+            "LocalityName": "Hawke's Bay",
+            "LocalityId": 5
+        }
+    ],
+    "waitakere city": [
+        {
+            "DistrictId": 6,
+            "DistrictName": "Waitakere City",
+            "LocalityName": "Auckland",
+            "LocalityId": 1
+        }
+    ],
+    "waitaki": [
+        {
+            "DistrictId": 68,
+            "DistrictName": "Waitaki",
+            "LocalityName": "Otago",
+            "LocalityId": 10
+        }
+    ],
+    "waitomo": [
+        {
+            "DistrictId": 20,
+            "DistrictName": "Waitomo",
+            "LocalityName": "Waikato",
+            "LocalityId": 14
+        }
+    ],
+    "wanaka": [
+        {
+            "DistrictId": 83,
+            "DistrictName": "Wanaka",
+            "LocalityName": "Otago",
+            "LocalityId": 10
+        }
+    ],
+    "wellington": [
+        {
+            "DistrictId": 47,
+            "DistrictName": "Wellington",
+            "LocalityName": "Wellington",
+            "LocalityId": 15
+        }
+    ],
+    "western bay of plenty": [
+        {
+            "DistrictId": 22,
+            "DistrictName": "Western Bay Of Plenty",
+            "LocalityName": "Bay Of Plenty",
+            "LocalityId": 2
+        }
+    ],
+    "westland": [
+        {
+            "DistrictId": 57,
+            "DistrictName": "Westland",
+            "LocalityName": "West Coast",
+            "LocalityId": 16
+        }
+    ],
+    "whakatane": [
+        {
+            "DistrictId": 25,
+            "DistrictName": "Whakatane",
+            "LocalityName": "Bay Of Plenty",
+            "LocalityId": 2
+        }
+    ],
+    "whanganui": [
+        {
+            "DistrictId": 37,
+            "DistrictName": "Whanganui",
+            "LocalityName": "Manawatu / Whanganui",
+            "LocalityId": 6
+        }
+    ],
+    "whangarei": [
+        {
+            "DistrictId": 2,
+            "DistrictName": "Whangarei",
+            "LocalityName": "Northland",
+            "LocalityId": 9
+        }
+    ]
+}

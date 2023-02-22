@@ -1,0 +1,82 @@
+{
+    "all": {
+        "LocalityId": 100,
+        "LocalityName": "All",
+        "Count": 1
+    },
+    "auckland": {
+        "LocalityId": 1,
+        "LocalityName": "Auckland",
+        "Count": 1
+    },
+    "bay of plenty": {
+        "LocalityId": 2,
+        "LocalityName": "Bay Of Plenty",
+        "Count": 1
+    },
+    "canterbury": {
+        "LocalityId": 3,
+        "LocalityName": "Canterbury",
+        "Count": 1
+    },
+    "gisborne": {
+        "LocalityId": 4,
+        "LocalityName": "Gisborne",
+        "Count": 1
+    },
+    "hawke's bay": {
+        "LocalityId": 5,
+        "LocalityName": "Hawke's Bay",
+        "Count": 1
+    },
+    "manawatu / whanganui": {
+        "LocalityId": 6,
+        "LocalityName": "Manawatu / Whanganui",
+        "Count": 1
+    },
+    "marlborough": {
+        "LocalityId": 7,
+        "LocalityName": "Marlborough",
+        "Count": 1
+    },
+    "nelson / tasman": {
+        "LocalityId": 8,
+        "LocalityName": "Nelson / Tasman",
+        "Count": 1
+    },
+    "northland": {
+        "LocalityId": 9,
+        "LocalityName": "Northland",
+        "Count": 1
+    },
+    "otago": {
+        "LocalityId": 10,
+        "LocalityName": "Otago",
+        "Count": 1
+    },
+    "southland": {
+        "LocalityId": 11,
+        "LocalityName": "Southland",
+        "Count": 1
+    },
+    "taranaki": {
+        "LocalityId": 12,
+        "LocalityName": "Taranaki",
+        "Count": 1
+    },
+    "waikato": {
+        "LocalityId": 14,
+        "LocalityName": "Waikato",
+        "Count": 1
+    },
+    "wellington": {
+        "LocalityId": 15,
+        "LocalityName": "Wellington",
+        "Count": 1
+    },
+    "west coast": {
+        "LocalityId": 16,
+        "LocalityName": "West Coast",
+        "Count": 1
+    }
+}
